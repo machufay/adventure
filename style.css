@@ -24,8 +24,8 @@ body {
 
 /* Style the body with a background color or image if desired */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffffff;
     text-align: center;
     padding: 20px;
 }
@@ -69,7 +69,7 @@ button {
     font-size: 16px;
     padding: 10px 20px;
     margin: 10px;
-    background-color: #007bff;
+    background-color: #3a5830;
     color: #fff;
     border: none;
     border-radius: 5px;
