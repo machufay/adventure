@@ -11,6 +11,9 @@ Remove the comments from the code below when you're ready for that step!*/
 }
 */
 
+div {
+    display: none;
+}
 
 /* Feel free to change any of the styling below!*/
 html,
