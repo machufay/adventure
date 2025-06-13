@@ -20,8 +20,8 @@ optionOne.addEventListener("click", function() {
         situation = "locked5";
         look4.style.display = "none";
         locked5.style.display = "block";
-        optionOne.innerHTML = "huh";
-        optionTwo.innerHTML = "to be continued";
+        optionOne.innerHTML = "it's not done";
+        optionTwo.innerHTML = "reload the page and try another path";
     }
     if (situation=="slip3") {
         situation = "look4";
